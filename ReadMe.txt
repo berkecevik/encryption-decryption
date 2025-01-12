@@ -1,0 +1,1 @@
+All the steps in Task 1 are inside the 'so-hw' folder. For more information, please read the README file inside the folder. Additionally, the DES(taks2) and OpenSSL(task3) are inside the 'des' folder.
